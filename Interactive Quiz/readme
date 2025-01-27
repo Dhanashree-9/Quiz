@@ -1,0 +1,17 @@
+# Baby Animal Names Quiz
+
+This is a fun and interactive quiz app where users can test their knowledge about the names of baby animals. The quiz features multiple-choice questions and provides feedback to the user based on their selections.
+
+## Features
+
+1. **Multiple-Choice Questions**: Users can choose the correct answer from a list of options.
+2. **Feedback**: The app provides feedback on whether the selected answer is correct or incorrect after each question.
+3. **Navigation**: Users can navigate between questions using "Next" and "Previous" buttons.
+4. **Restart Quiz**: After completing the quiz, users can click the "Start Again" button to retake the quiz.
+5. **Score Display**: At the end of the quiz, the user's score is displayed.
+
+## Technologies Used
+
+- **HTML**: Structure of the quiz application.
+- **CSS**: Styling the quiz interface to make it visually appealing.
+- **JavaScript**: Logic for the quiz, including navigating through questions, tracking answers, and calculating the score.
